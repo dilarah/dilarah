@@ -1,4 +1,6 @@
-<h1 align="center">Hi there 👋 I am Dilara!</h1>
+<h1 style="color:black; align="center">Hi there 👋 I am Dilara!</h1>
+
+<h1 style="color:blue;">A Blue Heading</h1>
 <h3 align="center">Junior Data Scientist, who has an incredible joy working on building Data products 🚀</h3>
 
 - 🔭 I’m currently working on **mastering my data science skills 🤓**
